@@ -24,6 +24,22 @@ Atualmente sou assessor e consultor de tecnologia da OSC AC Social, atuando na �
 
 ---
 
+## 📈 Estatísticas do Meu Perfil
+
+### 🔥 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniBoy083&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
+
+### 📊 Gráfico de Contribuições
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniBoy083&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&count_private=true)
+
+### 🔗 Streak de Contribuições
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DaniBoy083&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+---
+
 ## 💼 Experiência Profissional
 
 - **Desenvolvedor Full Stack** - Freelancer
