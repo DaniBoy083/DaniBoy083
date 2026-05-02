@@ -45,10 +45,7 @@ Atualmente sou assessor e consultor de tecnologia da OSC AC Social, atuando na �
 - **Desenvolvedor Full Stack** - Freelancer
 - **Analista de Dados** - Especializado em banco de dados
 - **Consultor em Tecnologia** - OSC AC Social
-- **Estudante de Ciências da Computação** - PcD
-
-📍 **Localização:** João Pessoa, Paraíba, Brazil  
-🌐 **Disponibilidade:** On-site • Híbrido • Remote
+- **Estudante de Ciências da Computação** - Centro Universitario de João Pessoa
 
 ---
 
@@ -68,7 +65,7 @@ Atualmente sou assessor e consultor de tecnologia da OSC AC Social, atuando na �
 
 - 🎨 **Front-end** - React, TypeScript, Next.js
 - 🔧 **Back-end** - Java, C
-- 📈 **Análise de Dados** - SQL, Python, Banco de Dados
+- 📈 **Análise de Dados** - PostgreSQL, Python
 - 💡 **Consultoria Técnica** - Suporte e orientação
 
 ---
