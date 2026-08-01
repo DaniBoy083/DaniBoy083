@@ -68,7 +68,7 @@ Como pessoa com deficiência física, tenho um olhar muito forte para soluções
 
 ## Vamos conversar?
 
-Estou aberto a novas oportunidades, colaborações e trocas de ideia sobre tecnologia.
+Estou aberto a novas oportunidades, colaborações e boas conversas sobre tecnologia.
 
 - **LinkedIn:** https://www.linkedin.com/in/daniel-costa-62681132b/
 - **Portfólio:** https://devthreebydanielcosta.vercel.app
