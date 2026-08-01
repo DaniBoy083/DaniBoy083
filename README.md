@@ -11,8 +11,6 @@ Gosto de usar software para deixar processos mais simples, rápidos e acessívei
 
 </div>
 
-## Versão ASCII da minha foto
-
 <div align="center">
 <pre>
 :::::::,,,,,,,,,,,,..........,,,
