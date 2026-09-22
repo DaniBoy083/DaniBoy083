@@ -1,8 +1,9 @@
-# Daniel Costa
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
+  <img src="./assets/profile-header.svg" alt="Daniel Costa — código, dados e tecnologia para facilitar o cotidiano. João Pessoa, PB." width="100%">
+</picture>
 
 **Desenvolvedor Full Stack · Analista de Dados · Consultor em Tecnologia**
-
-Desenvolvo aplicações para conectar pessoas e simplificar o dia a dia. De João Pessoa, PB.
 
 [Portfólio ↗](https://devthreebydanielcosta.vercel.app) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/daniel-costa-62681132b/) &nbsp; · &nbsp; [Instagram ↗](https://www.instagram.com/dani_boy083_/)
 

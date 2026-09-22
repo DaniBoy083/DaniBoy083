@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title description">
+  <title id="title">Daniel Costa</title>
+  <desc id="description">Código, dados e tecnologia para facilitar o cotidiano. João Pessoa, PB.</desc>
+
+  <rect width="640" height="300" rx="12" fill="#0d1117"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="2" y="35" fill="#9198a1" font-size="18" letter-spacing="3">DANIBOY083</text>
+    <text x="0" y="118" fill="#f0f6fc" font-size="68" font-weight="700" letter-spacing="-2">Daniel Costa</text>
+    <text x="2" y="169" fill="#b1bac4" font-size="29">Código, dados e tecnologia</text>
+    <text x="2" y="209" fill="#b1bac4" font-size="29">para facilitar o cotidiano.</text>
+    <text x="2" y="261" fill="#9198a1" font-size="20">João Pessoa, PB</text>
+  </g>
+
+  <g fill="none" stroke="#484f58" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M544 15 L530 29 L544 43 M594 15 L608 29 L594 43 M577 9 L561 49"/>
+  </g>
+
+  <path d="M0 292 H640" stroke="#30363d"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Daniel Costa</title>
+  <desc id="description">Código, dados e tecnologia para facilitar o cotidiano. João Pessoa, PB. Banner escuro com um símbolo de código discreto, sem retrato.</desc>
+
+  <rect width="1200" height="260" rx="12" fill="#0d1117"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="2" y="35" fill="#9198a1" font-size="15" letter-spacing="3">DANIBOY083</text>
+    <text x="0" y="117" fill="#f0f6fc" font-size="68" font-weight="700" letter-spacing="-2">Daniel Costa</text>
+    <text x="2" y="165" fill="#b1bac4" font-size="26">Código, dados e tecnologia para facilitar o cotidiano.</text>
+    <text x="2" y="222" fill="#9198a1" font-size="17">João Pessoa, PB</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M934 43 H1114 Q1126 43 1126 55 V190 Q1126 202 1114 202 H934 Q922 202 922 190 V55 Q922 43 934 43Z" stroke="#21262d"/>
+    <path d="M922 76 H1126" stroke="#21262d"/>
+    <path d="M971 104 L950 126 L971 148 M1077 104 L1098 126 L1077 148 M1037 94 L1011 158" stroke="#6e7681" stroke-width="3"/>
+    <path d="M950 179 H992 M1004 179 H1050" stroke="#30363d" stroke-width="3"/>
+    <path d="M944 60 H946 M956 60 H958 M968 60 H970" stroke="#484f58" stroke-width="4"/>
+  </g>
+
+  <path d="M0 252 H1200" stroke="#30363d"/>
+</svg>
