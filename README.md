@@ -1,47 +1,32 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
-  <img src="./assets/profile-header.svg" alt="Daniel Costa — código, dados e tecnologia para facilitar o cotidiano. Acessibilidade faz parte do meu olhar." width="100%">
-</picture>
-
-<div align="center">
+# Daniel Costa
 
 **Desenvolvedor Full Stack · Analista de Dados · Consultor em Tecnologia**
 
-João Pessoa, PB, Brasil
+Desenvolvo aplicações para conectar pessoas e simplificar o dia a dia. De João Pessoa, PB.
 
 [Portfólio ↗](https://devthreebydanielcosta.vercel.app) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/daniel-costa-62681132b/) &nbsp; · &nbsp; [Instagram ↗](https://www.instagram.com/dani_boy083_/)
 
-</div>
+## Sobre mim
 
-<br>
+Estudo **Ciências da Computação** e trabalho com **desenvolvimento Full Stack como freelancer**. Gosto de entender o problema de perto e construir algo que faça sentido para quem vai usar.
 
-## Prazer, Daniel.
+Também atuo como assessor e consultor de tecnologia na **OSC AC Social**, entre suporte técnico, bancos de dados, análise de dados e desenvolvimento.
 
-Estudo **Ciências da Computação** e desenvolvo projetos **Full Stack como freelancer**. Gosto de transformar processos complicados em soluções simples, úteis e acessíveis.
+Como pessoa com deficiência física, a **acessibilidade faz parte do meu olhar** sobre tecnologia. Quero que as soluções que construo ajudem as pessoas a se comunicar, se organizar e ter mais autonomia no cotidiano.
 
-Na **OSC AC Social**, atuo como assessor e consultor de tecnologia. Meu trabalho passa por suporte técnico, bancos de dados, análise de dados e desenvolvimento — conectando a tecnologia às necessidades de quem usa.
+## No meu dia a dia
 
-Como pessoa com deficiência física, a acessibilidade faz parte do meu olhar sobre o mundo. Isso também orienta o que construo: soluções que ajudem as pessoas a se comunicar, se organizar e lidar com as tarefas do cotidiano.
-
-## O que faço e com o que trabalho
-
-| Área | No meu dia a dia |
-| :--- | :--- |
-| **Interfaces** | React · TypeScript · Next.js |
-| **Desenvolvimento** | Java · C |
-| **Dados** | PostgreSQL · Python |
-| **Consultoria** | Suporte técnico · Organização de processos · Orientação tecnológica |
+- **Interfaces** — React, TypeScript e Next.js.
+- **Desenvolvimento** — Java e C.
+- **Dados** — PostgreSQL e Python.
+- **Consultoria** — suporte técnico, organização de processos e orientação tecnológica.
 
 ## Entre um commit e outro
 
-[![Histórico de contribuições de Daniel Costa no GitHub, em fundo escuro com destaques azuis e verdes.](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniBoy083&theme=github_dark)](https://github.com/DaniBoy083?tab=overview)
-
-[Ver minha atividade no GitHub ↗](https://github.com/DaniBoy083?tab=overview)
+<a href="https://github.com/DaniBoy083?tab=overview">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniBoy083&amp;theme=github_dark" alt="Histórico de contribuições de Daniel Costa no GitHub." width="100%">
+</a>
 
 ---
 
-**Vamos construir algo útil?**
-
-Estou aberto a oportunidades, projetos freelance e colaborações. Se a ideia envolve desenvolvimento, dados ou tecnologia para facilitar a vida, vamos conversar.
-
-[Conheça meu trabalho ↗](https://devthreebydanielcosta.vercel.app) &nbsp; · &nbsp; [Fale comigo no LinkedIn ↗](https://www.linkedin.com/in/daniel-costa-62681132b/)
+Aberto a oportunidades, projetos freelance e colaborações. **Vamos construir algo útil?**
