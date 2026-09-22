@@ -1,74 +1,47 @@
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
+  <img src="./assets/profile-header.svg" alt="Daniel Costa — código, dados e tecnologia para facilitar o cotidiano. Acessibilidade faz parte do meu olhar." width="100%">
+</picture>
+
 <div align="center">
 
-# Oi, eu sou Daniel Costa 👋
+**Desenvolvedor Full Stack · Analista de Dados · Consultor em Tecnologia**
 
-Desenvolvedor Full Stack, Analista de Dados e consultor em tecnologia.
-Gosto de usar software para deixar processos mais simples, rápidos e acessíveis no dia a dia.
+João Pessoa, PB, Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-costa-62681132b/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devthreebydanielcosta.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dani_boy083_/)
+[Portfólio ↗](https://devthreebydanielcosta.vercel.app) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/daniel-costa-62681132b/) &nbsp; · &nbsp; [Instagram ↗](https://www.instagram.com/dani_boy083_/)
 
 </div>
 
-<div align="center">
-<pre>
-:::::::,,,,,,,,,,,,..........,,,
-::::::,,,,,,,,,,,,,,...........,
-::::,:,,,,,,,:;;;::,.,,.........
-:::::,,,,,,;?#@@@@#S*,,,........
-:::,,,,,,,;#@@@@@@@@@%,,,,......
-:::,,,,,,,%@##SS%?%S@@;,,,,.....
-::::,,,,,,?##S%*?%SSS#:,,,,,...,
-:::::,,,,+SSSS#%@@#@S%:,,,,,,,,,
-:::::::,,?#%*%?*??**%S+,,,,,,,,,
-:::::::::;S%?S%??**?%*,,,,:,,,,,
-::;+*?###%S@#S%%SS#S+;::::::::::
-S#######@@@@@#S%S@@@@@#S?+;:::::
-@#SSSS%%S#######@@@@@@@@@@#?+:;;
-?%?%%?***?#@@@S%S#@@@@@@@@@@@%;;
-????SS%SSSSS?%?*?S###@@@@@@@@@S;
-???%%####%*****%%?***%S#@@@@@@@%
-</pre>
-</div>
+<br>
 
-## Sobre mim
+## Prazer, Daniel.
 
-Sou estudante de Ciências da Computação e atuo em projetos freelance de desenvolvimento Full Stack.
-Hoje também trabalho como assessor e consultor de tecnologia na OSC AC Social, apoiando rotinas de suporte técnico, banco de dados, análise de dados e desenvolvimento.
+Estudo **Ciências da Computação** e desenvolvo projetos **Full Stack como freelancer**. Gosto de transformar processos complicados em soluções simples, úteis e acessíveis.
 
-Como pessoa com deficiência física, tenho um olhar muito forte para soluções que realmente façam diferença na vida das pessoas — principalmente quando ajudam a melhorar comunicação, organização e tarefas do cotidiano.
+Na **OSC AC Social**, atuo como assessor e consultor de tecnologia. Meu trabalho passa por suporte técnico, bancos de dados, análise de dados e desenvolvimento — conectando a tecnologia às necessidades de quem usa.
 
-## Onde atuo melhor
+Como pessoa com deficiência física, a acessibilidade faz parte do meu olhar sobre o mundo. Isso também orienta o que construo: soluções que ajudem as pessoas a se comunicar, se organizar e lidar com as tarefas do cotidiano.
 
-- **Front-end:** React, TypeScript e Next.js
-- **Back-end:** Java e C
-- **Dados:** PostgreSQL e Python
-- **Consultoria técnica:** suporte, estruturação de processos e orientação tecnológica
+## O que faço e com o que trabalho
 
-## Tecnologias do meu dia a dia
+| Área | No meu dia a dia |
+| :--- | :--- |
+| **Interfaces** | React · TypeScript · Next.js |
+| **Desenvolvimento** | Java · C |
+| **Dados** | PostgreSQL · Python |
+| **Consultoria** | Suporte técnico · Organização de processos · Orientação tecnológica |
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+## Entre um commit e outro
 
-## GitHub em números
+[![Histórico de contribuições de Daniel Costa no GitHub, em fundo escuro com destaques azuis e verdes.](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniBoy083&theme=github_dark)](https://github.com/DaniBoy083?tab=overview)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaniBoy083&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
+[Ver minha atividade no GitHub ↗](https://github.com/DaniBoy083?tab=overview)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DaniBoy083&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaniBoy083&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+**Vamos construir algo útil?**
 
-## Vamos conversar?
+Estou aberto a oportunidades, projetos freelance e colaborações. Se a ideia envolve desenvolvimento, dados ou tecnologia para facilitar a vida, vamos conversar.
 
-Estou aberto a novas oportunidades, colaborações e boas conversas sobre tecnologia.
-
-- **LinkedIn:** https://www.linkedin.com/in/daniel-costa-62681132b/
-- **Portfólio:** https://devthreebydanielcosta.vercel.app
-- **Instagram:** https://www.instagram.com/dani_boy083_/
-- **Localização:** João Pessoa, PB — Brasil
+[Conheça meu trabalho ↗](https://devthreebydanielcosta.vercel.app) &nbsp; · &nbsp; [Fale comigo no LinkedIn ↗](https://www.linkedin.com/in/daniel-costa-62681132b/)
