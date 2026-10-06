@@ -28,6 +28,14 @@ Como pessoa com deficiência física, a **acessibilidade faz parte do meu olhar*
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniBoy083&amp;theme=github_dark" alt="Histórico de contribuições de Daniel Costa no GitHub." width="100%">
 </a>
 
+### Tecnologias mais usadas
+
+Linguagens mais presentes nos meus repositórios públicos, com dados da API do GitHub.
+
+<a href="https://github.com/DaniBoy083?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniBoy083&amp;theme=github_dark" alt="Gráfico das linguagens mais usadas nos repositórios de Daniel Costa no GitHub." width="400">
+</a>
+
 ---
 
 Aberto a oportunidades, projetos freelance e colaborações. **Vamos construir algo útil?**
